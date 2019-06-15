@@ -1,5 +1,9 @@
 [Johnny-Five 기본세팅 설명 링크](https://edykim.com/ko/post/controlling-arduino-with-javascript-johnnyfive/)  
 
+ino를 설치해야 위의 방식으로 사용할 수 있음[](http://inotool.org/)    
+$ sudo pip install ino
+
+
 ![](https://github.com/rwaldron/johnny-five/raw/master/assets/sgier-johnny-five.png)
 
 # Johnny-Five
