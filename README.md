@@ -1,8 +1,13 @@
 [Johnny-Five 기본세팅 설명 링크](https://edykim.com/ko/post/controlling-arduino-with-javascript-johnnyfive/)  
 
 ino를 설치해야 위의 방식으로 사용할 수 있음[](http://inotool.org/)    
-$ sudo pip install ino
+$ sudo pip install ino  
 
+raspi를 설치해야 함[](https://github.com/nebrius/raspi)  
+$ npm install raspi  
+
+raspi-serial를 설치해야 함[](https://www.npmjs.com/package/raspi-serial)  
+$ npm install raspi-serial  
 
 ![](https://github.com/rwaldron/johnny-five/raw/master/assets/sgier-johnny-five.png)
 
