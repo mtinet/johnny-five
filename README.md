@@ -1,3 +1,5 @@
+[Johnny-Five 기본세팅 설명 링크](https://edykim.com/ko/post/controlling-arduino-with-javascript-johnnyfive/)  
+
 ![](https://github.com/rwaldron/johnny-five/raw/master/assets/sgier-johnny-five.png)
 
 # Johnny-Five
