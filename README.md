@@ -9,6 +9,9 @@ $ npm install raspi
 raspi-serial를 설치해야 함[](https://www.npmjs.com/package/raspi-serial)  
 $ npm install raspi-serial  
 
+[DEP0022] DeprecationWarning: os.tmpDir() is deprecated. Use os.tmpdir() instead. 오류 해결책 [링크](https://musma.github.io/2019/03/21/how-to-install-node-on-raspberry-pi.html)  
+
+
 ![](https://github.com/rwaldron/johnny-five/raw/master/assets/sgier-johnny-five.png)
 
 # Johnny-Five
